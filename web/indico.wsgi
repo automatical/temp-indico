@@ -5,5 +5,8 @@
 # modify it under the terms of the MIT License; see the
 # LICENSE file for more details.
 
+import os
+os.environ['INDICO_CONFIG'] = "/srv/www/indico/application/.indico.conf"
+
 from indico.web.flask.app import make_app
 application = make_app()
