@@ -40,7 +40,7 @@ html5lib==1.0.1
 icalendar==4.0.3
 idna==2.9
 importlib-metadata==1.6.0
-indico==2.2.8
+indico==2.3.4
 indico-fonts==1.1
 infinity==1.4
 intervals==0.8.1
