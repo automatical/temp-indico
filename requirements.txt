@@ -74,7 +74,7 @@ polib==1.1.0
 prompt-toolkit==1.0.18
 psycopg2==2.8.3
 ptyprocess==0.6.0
-py==1.8.1
+py==1.10.0
 pycountry==19.7.15
 pycparser==2.20
 Pygments==2.5.2
