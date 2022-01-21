@@ -45,7 +45,7 @@ indico-fonts==1.1
 infinity==1.4
 intervals==0.8.1
 ipaddress==1.0.23
-ipython==5.9.0
+ipython==7.16.3
 ipython-genutils==0.2.0
 itsdangerous==1.1.0
 Jinja2==2.10.1
